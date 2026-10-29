@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hasdata-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hasdata.com/
+HasData provides a web scraping service for data pipelines and AI, offering a suite of APIs that transform any URL into structured JSON or Markdown. The platform includes specialized APIs for Google SERP, Maps, News, Amazon, Zillow, and more, with pricing per 1k requests. It supports no‑code scrapers, MCP servers for LLM integration, and a CLI tool. Users can get started quickly via a quickstart guide, and the service handles proxies, rendering, and retries automatically.
+
+**Areas:** Web Scraping · Data Pipelines · AI · API · Automation
+
+## hasdata-com on APIs.io
+
+Everything profiled for hasdata-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hasdata-com/](https://apis.io/providers/hasdata-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [hasdata-com amazon API](https://apis.io/apis/hasdata-com/amazon-api/) — hasdata-com amazon API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's…
+- [hasdata-com core API](https://apis.io/apis/hasdata-com/core-api/) — hasdata-com core API as documented publicly: 24 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+- [hasdata-com tiktok API](https://apis.io/apis/hasdata-com/tiktok-api/) — hasdata-com tiktok API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's…
+- [hasdata-com walmart API](https://apis.io/apis/hasdata-com/walmart-api/) — hasdata-com walmart API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's…
+- [hasdata-com yelp API](https://apis.io/apis/hasdata-com/yelp-api/) — hasdata-com yelp API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+- [hasdata-com youtube API](https://apis.io/apis/hasdata-com/youtube-api/) — hasdata-com youtube API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [hasdata-com API Rules](https://apis.io/rules/hasdata-com/hasdata-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hasdata Com Authentication](https://apis.io/security/hasdata-com/hasdata-com-authentication/)
+- [Hasdata Com Domain Security](https://apis.io/security/hasdata-com/hasdata-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Hasdata Com Scopes](https://apis.io/scopes/hasdata-com/hasdata-com-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Hasdata Com Rate Limits](https://apis.io/rate-limits/hasdata-com/hasdata-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hasdata.com/)
+- [Documentation](https://docs.hasdata.com/)
+- [Getting started](https://docs.hasdata.com/quickstart.md)
+- [API reference](https://docs.hasdata.com/)
+- [Pricing](https://docs.hasdata.com/basics/pricing.md)
+- [Sign up](https://app.hasdata.com/sign-up)
+- [Blog](https://hasdata.com/blog/)
+- [Terms of service](https://hasdata.com/terms-of-use)
+- [Privacy policy](https://hasdata.com/privacy-policy)
+- [GitHub](https://github.com/HasData)
+
+## API Evangelist rating
+
+**Kin Score 48.9** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 39.8 |
+| Contract governance | 70.9 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 44.7 |
+
+**Agent readiness 53.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hasdata-com/](https://apis.io/providers/hasdata-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for hasdata-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hasdata-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
